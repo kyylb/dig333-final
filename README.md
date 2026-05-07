@@ -1,4 +1,5 @@
-# dig333-final
+# Kyle Berlage
+## DIG333 Final
 
 Pitch:
 https://docs.google.com/presentation/d/1rur4jZ9Eb_dvRqSIqiW5fMj_cHbsJCbyqqdRq8aCZ64/edit?slide=id.g3d37ff74a98_0_0#slide=id.g3d37ff74a98_0_0
